@@ -7,7 +7,7 @@ program
   .option("-n, --name <type>", "user name")
   .option("-e, --email <type>", "user email")
   .option("-p, --phone <type>", "user phone");
-
+console.log(process.argv);
 program.parse(process.argv);
 
 const argv = program.opts();
