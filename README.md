@@ -18,4 +18,4 @@ https://monosnap.com/file/eBzskCAhSE8ryg2p7borJkuby2KTKa
 # Видаляємо контакт
 
 node index.js --action="remove" --id AeHIrLTr6JkxGE6SN-0Rw
-https://monosnap.com/file/jCmu9gkAt7k3OllNzES6epGPNHOOEE
+https://monosnap.com/file/bno1YdGPc0H6mNtlFn8FBn13xJNP0G
